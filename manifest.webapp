@@ -1,7 +1,7 @@
 {
   "version": "0.1",
   "name": "Calculo",
-  "description": "Local Holiday App",
+  "description": "Calculator with extras",
   "launch_path": "/www/index.html",
   "icons": {
     "64": "/www/img/icons/calculo64.png",
@@ -12,7 +12,5 @@
     "name": "anistark",
     "url": "http://anistark.github.io"
   },
-  "installs_allowed_from": ["*"],
-  "appcache_path": "/cache.manifest",
   "default_locale": "en"
 }
